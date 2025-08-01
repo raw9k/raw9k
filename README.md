@@ -1,79 +1,87 @@
-<!-- GitHub Profile README for Rounak -->
-<h1 align="center">Hi, I'm Rounak 👋</h1>
-<p align="center"><em>Data Science Student | ML & GenAI Developer | Mixture Model Enthusiast | Systems Thinker</em></p>
+<!-- README.md for raw9k -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-R%20%7C%20Python-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20DL%20%7C%20NLP%20%7C%20GenAI-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialty-Mixture%20Models-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-Building%20End--to--End%20Systems-brightgreen?style=flat-square" />
-</div>
+<h1 align="center">Hi there 👋, I'm Rounak Gupta</h1>
+<h3 align="center">🚀 Data Science Student | ML & GenAI Developer | Mixture Model Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+ML+Systems+with+Python+%26+R;Exploring+Mixture+Models+%26+Semantic+Embeddings;Deploying+Intelligent+Solutions+with+Docker+%26+Azure;Visualizing+Insights+with+Power+BI" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 What I Do
+## 🌟 About Me
 
-- 📊 Build machine learning systems using **Python & R** for real-world impact.
-- 🧠 Explore **mixture models** to uncover hidden structures in data.
-- 🔍 Dive deep into **NLP**, **embedding representations**, and **semantic understanding**.
-- 🔧 Design end-to-end ML pipelines with robust engineering practices.
-- 🧪 Apply deep learning and generative AI for intelligent solutions.
-
----
-
-## 🔨 Tools I Work With
-
-| Category       | Stack                                                                 |
-|----------------|----------------------------------------------------------------------|
-| Languages      | `Python` • `R` • `SQL`                                                |
-| ML / DL        | `scikit-learn` • `TensorFlow` • `PyTorch` • `mixtools (R)`            |
-| NLP / GenAI    | `spaCy` • `NLTK` • `transformers` • `OpenAI APIs`                     |
-| Data & Viz     | `pandas` • `NumPy` • `Power BI` • `Matplotlib` • `Plotly`             |
-| Dev / Infra    | `Git` • `Docker` • `MongoDB` • `FastAPI`                              |
+- 🎓 Pursuing Data Science with a focus on **ML, NLP, and GenAI**
+- 🧠 Passionate about **mixture models**, **embedding representations**, and **interpretable AI**
+- 🛠️ Experienced in building **end-to-end ML pipelines**, **Power BI dashboards**, and **secure deployment workflows**
+- 📚 Currently exploring **generative models**, **cloud deployment**, and **MLOps best practices**
 
 ---
 
-## 📂 Projects Representing My Strengths
+## 🧰 Tech Stack
 
-### 🔐 Network Security System  
-A data-driven anomaly detection pipeline to identify potential threats.  
-**Stack:** Python • MongoDB • Machine Learning • FastAPI  
-→ _Designed the system end-to-end: from data ingestion to threat detection._
+| Category         | Tools & Frameworks                                                                 |
+|------------------|-------------------------------------------------------------------------------------|
+| **Languages**     | Python • R • SQL                                                                  |
+| **ML / DL**       | scikit-learn • TensorFlow • PyTorch • CatBoost • XGBoost                          |
+| **NLP / GenAI**   | spaCy • NLTK • transformers • OpenAI APIs                                         |
+| **Data & Viz**    | pandas • NumPy • Power BI • Matplotlib • Plotly                                   |
+| **Dev / Infra**   | Git • Docker • Azure • MongoDB • FastAPI • GitHub Actions                         |
 
-### 🩺 Mixture Models on Health Data  
-Applied **mixtools** in R to cluster and analyze diabetes dataset features.  
-→ _Interpreted hidden subpopulations with visual mixturegrams._
+---
 
-### 🧠 Word Embedding Explorer  
-Developed a tool to visualize and evaluate semantic similarity using word2vec and transformers.  
-→ _Integrated pretrained GenAI models with custom NLP evaluation scripts._
+## 📂 Featured Projects
+
+### 🔐 Network Security System
+> AI-powered anomaly detection pipeline  
+> **Stack:** Python • MongoDB • FastAPI  
+> _Built end-to-end: ingestion → detection → alerting_
+
+### 🩺 Mixturegrams on Diabetes Data
+> Applied `mixtools` in R to uncover hidden clusters  
+> _Visualized density decomposition and subpopulation insights_
+
+### 📊 Contoso Sales Dashboard
+> Interactive Power BI dashboard for business analytics  
+> _Used DAX, slicers, and dynamic visuals for storytelling_
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raw9k&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw9k&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raw9k&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raw9k&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw9k&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌱 Current Learning Goals
+## 🌱 Learning Goals
 
-- Implementing interpretable GenAI systems.  
-- Building reusable ML pipelines in production.  
-- Applying probabilistic models in real-world data science.
-
----
-
-## 📬 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: your.email@example.com  
-- 🖥️ Portfolio: coming soon...
+- 🔍 Interpretable GenAI systems
+- 🧪 Scalable ML pipelines with CI/CD
+- 📦 Cost-efficient deployment using Docker & Azure
+- 📚 Embedding-based retrieval and semantic search
 
 ---
 
-> “Build models like a scientist, deploy like an engineer.”
+## 🤝 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/guptarounak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rounakgupta914@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/raw9k">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><em>“Turning data into insight, and insight into action.”</em></p>
