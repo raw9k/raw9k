@@ -20,46 +20,113 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 💻 Languages
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org/" target="_blank" title="R">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" title="SQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" target="_blank" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+</p>
 
-### Libraries & Frameworks
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🤖 ML/DL & Data Science
+<p align="left">
+  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://streamlit.io/" target="_blank" title="Streamlit">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40"/>
+  </a>
+ 
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" title="OpenCV">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://catboost.ai/" target="_blank" title="CatBoost">
+    <img src="https://avatars.githubusercontent.com/u/29555424?s=200&v=4" alt="CatBoost" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ☁️ Cloud & DevOps
+<p align="left">
+  <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS EC2" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank" title="Azure">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
 
-### Domains
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
+
+### ⚙️ Tools
+<p align="left">
+  <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions">
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+</p>
+
+### 📊 Domains
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-2ECC71?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-F39C12?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-2ECC71?style=for-the-badge)
 
-### Workflow Skills
+### 🔧 Workflow Skills
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
 ![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge)
 ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-34495E?style=for-the-badge)
 ![Automated Evaluation](https://img.shields.io/badge/Automated%20Evaluation-9B59B6?style=for-the-badge)
 ![Monitoring & Logging](https://img.shields.io/badge/Monitoring%20%26%20Logging-1ABC9C?style=for-the-badge)
-
-
 
 ---
 
