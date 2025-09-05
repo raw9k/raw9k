@@ -134,12 +134,13 @@
 ## 📂 Featured Projects
 
 ### 🧠 Student Performance Prediction  
-🔗 [Live Demo](https://studentperformanceprediction-cygteybne4g2h6gw.centralus-01.azurewebsites.net/)  
+🔗 [Live](https://studentperformanceprediction-cygteybne4g2h6gw.centralus-01.azurewebsites.net/)  
 Built a complete ML pipeline using Scikit-learn and CatBoost  
 _Deployed using Docker + GitHub Actions + Azure Web App_
 
 ### 🛡️ Network Security System  
-🔗 [GitHub](https://github.com/raw9k/network-security-system)  
+🔗 [Live](https://networksecurity-h4hsc3bph3fmevfq.centralus-01.azurewebsites.net)
+
 Anomaly detection system using machine learning on real-time traffic  
 _ETL pipeline integrated with MongoDB Atlas, MLflow, and AWS EC2_
 
