@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Data Science Student | ML Engineer | GenAI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B28A4&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Pipelines;Exploring+Mixture+Models+and+EM+Algorithms;Deploying+Apps+with+Docker+and+Azure;Driving+Insights+using+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B28A4&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Pipelines;Deploying+Apps+with+Docker+and+Azure;Driving+Insights+using+Power+BI" alt="Typing SVG" />
 </p>
 
 ---
