@@ -154,7 +154,7 @@ _Used Power BI, DAX, and SQL for trend forecasting & KPI tracking_
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raw9k&theme=default" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=raw9k&theme=default" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw9k&layout=compact&theme=default&hide=html,javascript" />
