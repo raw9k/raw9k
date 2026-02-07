@@ -177,7 +177,7 @@ motto: "Ship models, not just notebooks."
     <img src="https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
-  <a href="https://studentperformanceprediction-cygteybne4g2h6gw.centralus-01.azurewebsites.net/">
+  <a href="https://students-performance-ml.onrender.com">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-6c3ce9?style=for-the-badge" />
   </a>
 </p>
