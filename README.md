@@ -16,9 +16,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ## <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="28"> &nbsp;Who Am I
 
@@ -43,9 +40,6 @@ motto: "Ship models, not just notebooks."
 
 
 
-</td>
-</tr>
-</table>
 
 
 ## 🛠️ Tech Arsenal
@@ -131,7 +125,7 @@ motto: "Ship models, not just notebooks."
     <img src="https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://hybrid-anime-recommender.onrender.com/">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-6c3ce9?style=for-the-badge" />
   </a>
 </p>
@@ -156,7 +150,7 @@ motto: "Ship models, not just notebooks."
     <img src="https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
-  <a href="https://networksecurity-h4hsc3bph3fmevfq.centralus-01.azurewebsites.net">
+  <a href="https://network-security-system.onrender.com/">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-6c3ce9?style=for-the-badge" />
   </a>
 </p>
