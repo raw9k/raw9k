@@ -42,7 +42,7 @@ motto: "Ship models, not just notebooks."
 
 
 
-## 🛠️ Tech Arsenal
+## <img src="https://media.giphy.com/media/BUbMgQBShZOcMPohgn/giphy.gif" width="30"> Tech Arsenal
 
 <details open>
 <summary><strong>💻 Languages</strong></summary>
@@ -112,7 +112,7 @@ motto: "Ship models, not just notebooks."
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="30"> Featured Projects
 
 <table>
 <tr>
