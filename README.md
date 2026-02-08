@@ -201,20 +201,21 @@ motto: "Ship models, not just notebooks."
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Contoso Sales Dashboard</h3>
+<h3 align="center">🪪 UIDAI Hackathon 2026</h3>
 
 <p align="center">
-  <a href="https://github.com/raw9k/Contoso-Sales-Power-BI">
+  <a href="https://github.com/raw9k/UIDAI-hackathon-2026">
     <img src="https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-> Interactive Power BI dashboard visualizing **$3.25B** sales transactions with trend forecasting, KPI tracking & executive-level data storytelling.
+> End-to-end ETL pipeline consolidating ~**44 lakh** Aadhaar Enrolment & Update records (NIC split CSVs) into an analysis-ready source of truth, with geography standardization, deduplication, KPI engineering, and an interactive Power BI dashboard for district-level decision-making.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 </td>
