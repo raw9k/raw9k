@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C3CE9&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Statistical+Modeling+Enthusiast+%F0%9F%93%89;End-to-end+ML+Pipelines+%F0%9F%94%A7;Docker+%2B+Azure+%2B+CI%2FCD+%F0%9F%9A%80;GenAI+%26+Agentic+Workflows+%F0%9F%A4%96;Data+Storytelling+%26+Dashboards+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C3CE9&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Statistical+Modeling+Enthusiast+%F0%9F%93%88;End-to-end+ML+Pipelines+%F0%9F%94%A7;Docker+%2B+Azure+%2B+CI%2FCD+%F0%9F%9A%80;GenAI+%26+Agentic+Workflows+%F0%9F%A4%96;Data+Storytelling+%26+Dashboards+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
 ---
