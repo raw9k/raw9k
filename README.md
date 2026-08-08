@@ -120,7 +120,7 @@ motto: "Ship models, not just notebooks."
 <h3 align="center">🎌 Hybrid Anime Recommendation System</h3>
 
 <p align="center">
-  <a href="https://github.com/raw9k/Hybrid-Anime-Recommendation-System">
+  <a href="https://github.com/raw9k/hybrid-anime-recommender">
     <img src="https://img.shields.io/badge/📁_View_Repo-181717?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
